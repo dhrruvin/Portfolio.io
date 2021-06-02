@@ -1,2 +1,0 @@
-# dhruvinshah
-Static resume website
